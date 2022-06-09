@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FoodCo</string>
+    <string name="action_switch_layout">Action Switch Layout</string>
+    <string name="see_more" tools:ignore="TypographyEllipsis">See more...</string>
+    <string name="oo" />
+    <string name="roasted_chicken"> "Nothing beats an easy to make and even easier to prepare roast chicken! Especially when roasted with butter, rosemary, parsley, lemon, and a hint of white wine for an unbeatable flavour. This Roast Chicken definitely beats the pants off of any rotisserie chicken!</string>
+    <string name="million_truffle">This Million Truffle is a decadent treat for a special date night.The unmistakably earthy rich flavour is paired with everything it loves, butter, cheese, and perfectly cooked linguine.</string>
+    <string name="sushi">Sushi is a staple rice dish of Japanese cuisine, consisting of cooked rice flavoured with vinegar and a variety of vegetable, egg, or raw seafood garnishes and served cold.</string>
+    <string name="lemon_ricotta_flatbread">A light layer of creamy ricotta sprinkled with fresh herbs dresses up store-bought crust in this bread starter. Lemon juice and rind add just the right flavor lift.</string>
+    <string name="steak_and_potatoes">Steak bites are so simple but delicious! Seasoned with garlic butter and herbs and the steak is perfectly tender.</string>
+    <string name="waffles">Waffles are a favorite for breakfast, but they are as delicious for dinner. It is very easy to transform waffles into a savory meal and all you need is to keep the sugar. Waffles are perfect for toppings with meat and gravy or in the Southern classic of fried chicken and waffles.</string>
+    <string name="junk_food">We\'re bringing you a selection of homemade junk food recipes that are just a tad healthier and, well, easy on the pocket! For a sweet surprise that will just melt in your mouth.</string>
+    <string name="parrilla_mixta">Parrilla mixta is a mixed grill of charcoal-broiled meats—a typical dish in the country\'s capital. This one here includes chorizo, morcilla (blood sausage), panceta (a thick-cut, unsmoked bacon), and veal breast.</string>
+    <string name="pizza">Pizza is always welcome at my home. There’s so much goodness in a single slice, it’s impossible to eat just one! It’s meaty, saucy, savory, cheesy, and just absolutely delightful.</string>
+    <string name="pole_bowl">This easy Poke Bowl Recipe is packed with sushi-grade ahi tuna seasoned with soy, honey, and plenty of sesame. It’s served with sticky brown rice, tons of veggies and these easiest spicy mayo on the planet.</string>
+    <string name="salads">Salads are the ultimate summer picnic food or party dish any time of year – they’re great to make ahead, they can double as a side and a main dish, and they’re a hearty showcase for the season’s best produce.</string>
+    <string name="hamburger">Thick or thin, made on the grill or stove top, this is the best and easiest all-purpose recipe for perfect hamburger patties every time! These juicy, delicious homemade hamburgers are ready in less than 30 minutes and are a must-make for your next cookout.</string>
+    <string name="sandwich">Sandwich is Hearty and downright good for the soul. It is made with leftover or freshly cooked Chicken shredded and tossed in Ketchup and Mayonnaise with a splash of lemon Juice. Sandwiched between layers of freshly toasted bread sandwiched with another layer of Lettuce and Fresh Tomatoes and Pickles.</string>
+    <string name="hot_dog">This hot dog is a Windy City classic and a big favorite with sports fans! The frank must be all-beef, the bun must be poppy seed, and the ingredients must be piled onto the bun in the order specified. And whatever you do, don\'t spoil the splendor of this Chicago dog with ketchup!</string>
+    <string name="salmon_and_veggies">Grilled salmon and veggies make for a colorful and balanced seafood dinner that\'s ready in just minutes. The grill turns the salmon flaky and moist while tenderizing the crispy pepper and onion pieces. Round out the meal with brown rice or quinoa.</string>
+    <string name="next">➺</string>
+</resources>
