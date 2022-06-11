@@ -34,18 +34,6 @@
             android:padding="8dp"
             android:textAppearance="?attr/textAppearanceBody1" />
 
-        <Button
-            android:id="@+id/button_item"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_gravity="end"
-            android:backgroundTint="@color/yellow"
-            android:fontFamily="sans-serif-medium"
-            android:text="@string/next"
-            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-            android:textColor="@color/black"
-            android:textSize="18sp"
-            android:textStyle="normal" />
     </LinearLayout>
 
 </com.google.android.material.card.MaterialCardView>
